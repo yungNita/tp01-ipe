@@ -31,8 +31,8 @@ View it in GitHub you will see it looks good.
 The following commands to initial git:
 
 ```
-git config --global user.name taltongsreng
-git config --global user.email ttongsreng@gmail.com
+git config --global user.name yungNita
+git config --global user.email yungNita@gmail.com
 ```
 Create new folder TP01-IPE. Open Git Bash (right click on fold TP01-IPE and choose Git Bash):
 

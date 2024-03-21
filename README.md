@@ -30,16 +30,22 @@ View it in GitHub you will see it looks good.
 ## Commands to run
 The following commands to initial git:
 
+```
 git config --global user.name taltongsreng
 git config --global user.email ttongsreng@gmail.com
+```
 Create new folder TP01-IPE. Open Git Bash (right click on fold TP01-IPE and choose Git Bash):
 
+```
 cd /d/I3/VCS/TP01-IPE
 git init
 git remote add origin/main https://github.com/yungNita/tp01-ipe?tab=readme-ov-file#tp01-ipe
 git branch -M main
+```
 Create README.md file (right click in folder TP01-IPE choose new text document and then rename it to README.md)
 
+```
 git commit -m "Add README.md file"
 git config --global --add --bool push.autoSetupRemote true
+```
 Using vscode: Go to Source control in left sidebar. Save stage changes the files.
